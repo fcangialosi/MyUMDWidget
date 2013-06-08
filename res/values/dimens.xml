@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="top">12dip</dimen>
+    <dimen name="pad">12dip</dimen>
+    <dimen name="cp">24dip</dimen>
+    <dimen name="small">6pt</dimen>
+    <dimen name="tiny">6pt</dimen>
+    <dimen name="refresh">4pt</dimen>
+    <dimen name="myumtop">2dip</dimen>
+    <dimen name="overunder">5pt</dimen>
+    <dimen name="update">4.5pt</dimen>
+</resources>

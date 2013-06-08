@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MyUMD Widget</string>
+    <string name="widget_text">Loading...</string>
+    <string name="blank">" "</string>
+
+</resources>
